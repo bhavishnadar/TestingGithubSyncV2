@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting started rename
 description: A quick overview to help new users set up their account.
 published: true
 audience: everyone
