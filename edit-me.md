@@ -14,4 +14,6 @@ Edit this article. It should open a PR on your Github repository. The article on
 Merge the PR on Github. The article should now be changed on Intercom
 
 The current version number is 1. When you edit, bump it so the change is easy  
-to spot on the Intercom side.
+to spot on the Intercom side.  
+  
+Hello world
